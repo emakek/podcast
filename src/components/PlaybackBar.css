@@ -1,0 +1,9 @@
+.playback-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #333;
+    color: #f30f0f;
+    text-align: center;
+    padding: 6px;
+  }

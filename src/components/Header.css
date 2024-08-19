@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px;
+    background: #e0dede;
+  }
+
+  .logo {
+    width: 50%; /* Ajusta el tamaño al 50% del contenedor */
+    height: auto; /* Mantiene la proporción original de la imagen */
+    
+  }
+
+  .search-bar {
+    flex: 1;
+    margin: 0 20px;
+    padding: 5px;
+  }
+
+  .profile-pic {
+    width: 50px;
+    border-radius: 70%;
+  }
+
+  .card-container {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+  }

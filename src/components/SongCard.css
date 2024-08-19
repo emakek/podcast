@@ -1,0 +1,9 @@
+.song-card{
+    background: #d8d4d4;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+    width: 20%; /* Ajusta el tamaño al 50% del contenedor */
+    height: auto; /* Mantiene la proporción original de la imagen */
+  }

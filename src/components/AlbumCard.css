@@ -1,0 +1,9 @@
+.album-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px;
+    background: #e0d8d8;
+  }
+
+
